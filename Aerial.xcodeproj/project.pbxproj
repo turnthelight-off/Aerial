@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D5DEF0921EF9DFCC0093DC89 /* VideoLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAF450201BE2B45D00C1F98A /* VideoLoader.swift */; };
 		FA143CE61BDA3EEF0041A82B /* AVKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FA143CE51BDA3EEF0041A82B /* AVKit.framework */; };
 		FA36BD3F1BE57F8E00D5E03B /* VideoDownload.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA36BD3E1BE57F8E00D5E03B /* VideoDownload.swift */; };
 		FA36BD401BE57F8E00D5E03B /* VideoDownload.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA36BD3E1BE57F8E00D5E03B /* VideoDownload.swift */; };
@@ -439,6 +440,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D5DEF0921EF9DFCC0093DC89 /* VideoLoader.swift in Sources */,
 				FA7199711D94EC5A00FBC99B /* PreferencesTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -693,6 +695,7 @@
 				FA7199771D94EC5A00FBC99B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FACAF19F1BD9FC6000E539DC /* Build configuration list for PBXProject "Aerial" */ = {
 			isa = XCConfigurationList;
